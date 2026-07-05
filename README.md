@@ -1,1 +1,9 @@
-# Mx5-dash
+Mx5-dash/
+│
+├── firmware/
+│
+├── dashboard/
+│
+├── hardware/
+│
+└── docs/
